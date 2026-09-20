@@ -1,0 +1,2 @@
+REP-911 disposable feedback-fork smoke test.
+Expected: CI feedback opens one PR fixes chat and preserves the main chat.
